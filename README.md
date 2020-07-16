@@ -1,2 +1,2 @@
-# inventory-management
-inventory management system in C#
+# Gestor de estoque
+Sistema de gestão de estoque.
